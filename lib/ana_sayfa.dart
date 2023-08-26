@@ -8,7 +8,7 @@ class AnaSayfa extends StatelessWidget {
     return Scaffold(
       appBar: AppBar(
         automaticallyImplyLeading: true,
-        title: Text("Ali Usta Döner"),
+        title: Text("YeniGün"),
       ),
       body: Center(
         child: Column(
